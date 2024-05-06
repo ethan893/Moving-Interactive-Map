@@ -3,7 +3,7 @@ var southWestBound = L.latLng(-90,-180);
 var northEastBound = L.latLng(90,185);
 var boundedArea = L.latLngBounds(southWestBound,northEastBound);
 var map = new L.map('map').setView([37.0902,95.7129],5)
-L.tileLayer('https://api.maptiler.com/maps/streets-v2/{z}/{x}/{y}.png?key=yKMBX1342N0cuI2tcJiC',{
+L.tileLayer('https://api.maptiler.com/maps/streets-v2/{z}/{x}/{y}.png?key=key',{
 // do not allow the user to zoom out of bounds
 attribution : '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
 minZoom : 3,
