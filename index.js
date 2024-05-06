@@ -28,16 +28,13 @@ function onClick(e)
 {
     if (selectedMarkers.length == 1)
 {
-    function successful()
-    {
-        console.log("success");
-    }
+    // make sure to not use http-server servers (they are read-only)
 $.ajax({
-    url : 'http://127.0.0.1:8081/',
+    url : 'http://127.0.0.1:8080/',
     method : "POST",
+    dataType: 'jsonp',
     contentType: "application/json; charset=utf-8",
     data : JSON.stringify({selectedMarkers}),
-    crossDomain : true,
     success : console.log("success")
 });
 }
