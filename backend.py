@@ -19,7 +19,7 @@ def test():
     return myData
 
 
-api_key = '5f0ae2710485a0b1f880cdbae5725fe8'
+api_key = 'api key'
 
 latitude = 37.7749
 
