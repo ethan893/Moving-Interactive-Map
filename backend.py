@@ -10,7 +10,7 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route('/test', methods=['OPTIONS'])
+@app.route('/test', methods=['POST'])
 def test():
     myData = request.get_json()
     myForm = request.form
