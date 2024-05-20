@@ -17,6 +17,7 @@ Then we can see here that the both temperatures will be shown, and the differenc
 the first location's temperature subtracted by the second location's temperature)
 
 
+
 Otherwise if there is no direct flight to this location:
 <img src="https://github.com/ethan893/Moving-Interactive-Map/blob/main/tests_examples/UST%20KOKSA%20to%20HA%20LONG%20NO%20AIRPORT%20EXAMPLE.PNG">
 Then we see here that the program will tell you that there is no direct flight to this location within the month time frame, and that we will only get
