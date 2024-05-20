@@ -1,6 +1,6 @@
 # Temperature Comparisons & Direct Flight Interactive Map 
 This interactive map was to be used for comparing two locations in terms of their difference in temperature,
-and how to get there quickly and cheaply through flight. It allows users to seamlessly click two locations of the map, and find quick temperature data, and
+and how to get there quickly and cheaply through flight. It allows users to click any two locations of the map, and seamlessly find quick temperature data within the past 3 hours, and
 direct flight data between the two locations within a month. Users are only allowed to click on two locations at a time, and if the location does
 not have an airport, we will search for the closest airport, and if there is not an airport that is close, we will return the fact that there is
 no direct flight or close airport to this location, within the month time frame. 
