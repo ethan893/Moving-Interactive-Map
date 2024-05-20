@@ -152,18 +152,5 @@ def data_collection():
             print(f"Error: {e}")
             return jsonify({"message": "An error occurred"}), 500
 
-
-
-
-
-
 if __name__ == '__main__':
    app.run(debug = True)
-"""
-housing costs
-precipitation average
-population
-population density/size
-
-
-"""
