@@ -13,10 +13,14 @@ If there is a direct flight to this location:
 Then we can see here that the both temperatures will be shown, and the differences of the temperatures will be shown (through the formula of
 the first location's temperature subtracted by the second location's temperature)
 
+
+
 Otherwise if there is no direct flight to this location:
 ![UST KOKSA to HA LONG NO AIRPORT EXAMPLE](https://github.com/ethan893/Moving-Interactive-Map/assets/111919382/30f625df-ed2a-455d-9d38-1f064f67782b)
 Then we see here that the program will tell you that there is no direct flight to this location within the month time frame, and that we will only get
 the two temperatures of the locations and their differences in temperatures.
+
+
 
 To reset the markers, and to be able to click two new markers:
 Press **R**, to reset the markers and to remove the lines and you will be prompted with,
