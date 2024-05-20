@@ -12,7 +12,7 @@ Just left-click on the first location that you want to start at, and then left-c
 
 
 If there is a direct flight to this location:
-<img src="https://github.com/ethan893/Moving-Interactive-Map/blob/main/tests_examples/RESETTING%20MARKERS%20EXAMPLE.PNG">
+<img src="https://github.com/ethan893/Moving-Interactive-Map/blob/main/tests_examples/SFO_TO_SJC_EXAMPLE.PNG">
 Then we can see here that the both temperatures will be shown, and the differences of the temperatures will be shown (through the formula of
 the first location's temperature subtracted by the second location's temperature)
 
