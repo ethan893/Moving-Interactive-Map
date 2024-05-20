@@ -14,7 +14,7 @@ Just left-click on the first location that you want to start at, and then left-c
 If there is a direct flight to this location:
 <img align="left" width="699" height="528" src="https://github.com/ethan893/Moving-Interactive-Map/blob/main/tests_examples/RESETTING%20MARKERS%20EXAMPLE.PNG">
 Then we can see here that the both temperatures will be shown, and the differences of the temperatures will be shown (through the formula of
-the first location's temperature subtracted by the second location's temperature)
+the first location's temperature subtracted by the second location's temperature)a
 
 
 
