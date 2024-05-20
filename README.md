@@ -6,7 +6,10 @@ not have an airport, we will search for the closest airport, and if there is not
 no direct flight or close airport to this location, within the month time frame. 
 
 # HOW TO USE:
-To use this application: Just left-click on any two locations on the map, and we will give the temperature and direct flight data to you immediately.
+To use this application: 
+Just left-click on the first location that you want to start at, and then left-click again on the second location being the location you want to get to, and you will be given both of the area's temperatures, their differences in temperatures, and the average and median nearest airport flight costs, if possible.
+
+
 
 If there is a direct flight to this location: 
 ![SFO_TO_SJC_EXAMPLE](https://github.com/ethan893/Moving-Interactive-Map/assets/111919382/964a6bfe-c1e0-4c65-8872-abf074daa11c)
